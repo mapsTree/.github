@@ -1,6 +1,0 @@
-![MapsTreeLogo](both.png)
-
-
-# MapsTree
-
-
