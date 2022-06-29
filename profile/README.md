@@ -12,7 +12,7 @@
 -->
 
 
-![MapsTreeLogo](../both.png)
+![MapsTreeLogo](both.png)
 
 
 # MapsTree
