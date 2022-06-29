@@ -1,5 +1,5 @@
 
-![MapsTreeLogo](both.png)
+![MapsTreeLogo](/profile/both.png)
 
 
 # MapsTree
