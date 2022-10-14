@@ -2,7 +2,8 @@
 [accountsService](https://hub.docker.com/repository/docker/aditya7sinha/account-servicemain-api_service)
 [inventoryservice](https://hub.docker.com/repository/docker/aditya7sinha/inventory-service-inventory_service)
 
-![MapsTreeLogo](/profile/alone_name.png | width=100)
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+![MapsTreeLogo](/profile/alone_name.png)
 
 
 # MapsTree
