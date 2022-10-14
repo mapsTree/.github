@@ -12,7 +12,15 @@
 </ul>
 
 
-
+<h4>Components of Architecture:</h4>
+<ul>
+  <li>Accounts Microservice</li>
+  <li>Inventory Microservice</li>
+  <li>Service Discovery</li>
+  <li>API Gateway</li>
+  <li>React FrontEnd</li>
+  <li>Rabbit MQ</li>
+  </ul>
 
 
 <!--
