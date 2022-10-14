@@ -1,7 +1,9 @@
 ![MapsTreeLogo](/profile/alone_name2.png)
 
-<h3>Description<h3>
-  MapsTree lets you map events, issues and share activities in real time maps.</br>
+<h3>Description</h3>
+<p>
+  MapsTree lets you map events, issues and share activities in real time maps.
+  </p>
   <h4>Image Registry:</h4></br>
   <ul>
   <li>[accountsService](https://hub.docker.com/repository/docker/aditya7sinha/account-servicemain-api_service)</li>
