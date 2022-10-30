@@ -7,8 +7,8 @@
   </p>
   <h4>Image Registry:</h4></br>
   <ul>
-  <li>[accountsService](https://hub.docker.com/repository/docker/aditya7sinha/account-servicemain-api_service)</li>
-  <li>[inventoryservice](https://hub.docker.com/repository/docker/aditya7sinha/inventory-service-inventory_service)</li>
+  <li> [accountsService](https://hub.docker.com/repository/docker/aditya7sinha/account-servicemain-api_service) </li>
+  <li> [inventoryservice](https://hub.docker.com/repository/docker/aditya7sinha/inventory-service-inventory_service) </li>
 </ul>
 
 
