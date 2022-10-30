@@ -6,10 +6,9 @@
   MapsTree lets you map events, issues and share activities in real time maps.
   </p>
   <h4>Image Registry:</h4></br>
-  <ul>
-  <li> [accountsService](https://hub.docker.com/repository/docker/aditya7sinha/account-servicemain-api_service) </li>
-  <li> [inventoryservice](https://hub.docker.com/repository/docker/aditya7sinha/inventory-service-inventory_service) </li>
-</ul>
+  [accountsService](https://hub.docker.com/repository/docker/aditya7sinha/account-servicemain-api_service)
+  [inventoryservice](https://hub.docker.com/repository/docker/aditya7sinha/inventory-service-inventory_service)
+
 
 
 <h4>Components of Architecture:</h4>
