@@ -9,7 +9,7 @@
   [accountsService] (https://hub.docker.com/repository/docker/aditya7sinha/account-servicemain-api_service)</br>
   [inventoryservice] (https://hub.docker.com/repository/docker/aditya7sinha/inventory-service-inventory_service)
 
-<h4>Adding the UI/UX of the mapsTree using Figma</h4>
+<h4>The UI/UX of the mapsTree using Figma:</h4>
 <p>https://www.figma.com/file/XIImDb8eiKwMvKc9RiTe0H/MapSeed-Desktop?node-id=120%3A24&t=avmHFa5YRMwBGfyC-1</p>
 
 
