@@ -5,6 +5,12 @@
 <p>
   MapsTree lets you map events, issues and share activities in real time maps.
   </p>
+
+<h3>Scope of the Project</h3>
+<p>Allows user to login and create events and mark issues on the map. Add a description about the event or issue.
+</p>
+
+  
   <h4>Image Registry:</h4></br>
   [accountsService] (https://hub.docker.com/repository/docker/aditya7sinha/account-servicemain-api_service)</br>
   [inventoryservice] (https://hub.docker.com/repository/docker/aditya7sinha/inventory-service-inventory_service)
