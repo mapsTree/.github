@@ -14,11 +14,8 @@
 <h4>Backend</h4>
 <p>For authentication using oauth 2.0 google.<h5> I came across the question about how to protect the application from cyber attacks? Should the application not have a strong authentication? </h5>
 There are two ways to authenticate the application which is using express-session or cookie-session.
-As the express-session uses the backend server side storage for the user session this is not safe for production level application. For this we have to create a redits storage but that is not good as can affect the performace of the application. It can make the backend slow and also affect in terms of load balancing of the application.
+As the express-session uses the backend server side storage for the user session this is not safe for production level application. For this we have to create a rediss storage but that is not good as can affect the performace of the application. It can make the backend slow and also affect in terms of load balancing of the application.<b>What is the solution?</b> We can use cookie session as it is a much safer and practical option. You can have a look at this repository for a template to implement the cookio-session authentication : ________
 </p>
-<h5>The solution</h5>
-<p>There are two ways to authenticate the application which is using express-session or cookie-session. One way is using the express s</p>
-
   
   <h4>Image Registry:</h4></br>
   [accountsService] (https://hub.docker.com/repository/docker/aditya7sinha/account-servicemain-api_service)</br>
