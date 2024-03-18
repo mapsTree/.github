@@ -4,11 +4,20 @@
 <h3>Description</h3>
 <p>
   MapsTree lets you map events, issues and share activities in real time maps.
+  The MapsTree has node express backend and react frontend.
   </p>
 
 <h3>Scope of the Project</h3>
 <p>Allows user to login and create events and mark issues on the map. Add a description about the event or issue.
 </p>
+
+<h4>Backend</h4>
+<p>For authentication using oauth 2.0 google.<h5> I came across the question about how to protect the application from cyber attacks? Should the application not have a strong authentication? </h5>
+There are two ways to authenticate the application which is using express-session or cookie-session.
+As the express-session uses the backend server side storage for the user session this is not safe for production level application. For this we have to create a redits storage but that is not good as can affect the performace of the application. It can make the backend slow and also affect in terms of load balancing of the application.
+</p>
+<h5>The solution</h5>
+<p>There are two ways to authenticate the application which is using express-session or cookie-session. One way is using the express s</p>
 
   
   <h4>Image Registry:</h4></br>
